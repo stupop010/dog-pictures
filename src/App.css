@@ -61,3 +61,10 @@
   text-decoration: underline;
   text-decoration-color: blue;
 }
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+    margin: 0;
+  }
+}
