@@ -1,6 +1,6 @@
 ## Dog Pictures
 
-A simple application that fetching dog pictures from https://dog.ceo/dog-api/ and show them.
+A simple application that fetching dog pictures from https://dog.ceo/dog-api/ and shows them.
 
 ### Tech used
 
